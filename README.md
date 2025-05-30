@@ -18,7 +18,7 @@ Installation
 
 Grab the Code:
 
-Clone the repo:git clone https://github.com/KiloKiller/fivem-loading-screen.git
+Clone the repo:git clone https://github.com/KiloKiller/LoadingScreen5M.git
 Or download the ZIP from the Releases page.
 
 
@@ -28,7 +28,6 @@ Drop the index.html into your FiveM server’s resources folder (e.g., resources
 Add to your server.cfg:ensure loading-screen
 
 
-Adjust fxmanifest.lua if required (check FiveM docs for details).
 
 
 Test It Out:
@@ -52,8 +51,7 @@ Links: Update the info section:<p>🌐 <a href="#">yourwebsite.com</a>  |  💬 
 Music: Change the <audio> source to your preferred track.
 Quotes & Rules: Edit the JavaScript quotes array and HTML rules list to reflect your server’s vibe.
 
-🖼️ Live Preview
-(Upload your screenshot to GitHub or an image host and replace this URL to showcase your setup!)
+
 🚀 Why Kilo Killer’s Creation Rocks
 This loading screen is more than code—it’s a passion project by Kilo Killer, blending cutting-edge design with community spirit. Expect regular updates, stunning visuals, and a framework that grows with your server. Join the revolution!
 🤝 Join the Crew
